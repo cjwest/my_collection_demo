@@ -1,0 +1,9 @@
+name: My Collection Demo
+description: Content types and views to demostrate how to build views for a collection.
+package: Custom
+type: module
+core: 8.x
+
+dependencies:
+  - drupal:views
+
