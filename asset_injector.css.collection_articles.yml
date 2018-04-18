@@ -1,0 +1,11 @@
+uuid: f1a53690-ed5b-44e6-88e7-076be442e779
+langcode: en
+status: true
+dependencies: {  }
+id: collection_articles
+label: 'Collection with articles'
+code: ".article-title,\r\n.article-total,\r\n.article-number {\r\n    float: left;\r\n    padding-right: 4px;\r\n}\r\n\r\n.view-my-collection-my-articles .menu-item {\r\n  position: -webkit-sticky;\r\n  position: sticky;\r\n  top: 30px;\r\n  background: #fbfbf9;\r\n  padding-bottom: 20px;\r\n  margin-bottom: 6px;\r\n}\r\n"
+media: all
+preprocess: true
+conditions: {  }
+conditions_require_all: true
